@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work together. Adding some tex
 
 ## Introduction
 
-This example is to show different parts of the Git repository and various commandsusing a web project.
+This example is to show different parts of the Git repository and various commandsusing a web project. Updating for emergency fix after stashing.
 
 ## Purpose
 
